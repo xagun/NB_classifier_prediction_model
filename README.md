@@ -14,9 +14,6 @@ This repository contains predictive models for diagnosing diabetes and thyroid c
 - **thyroid_prediction.ipynb**: Jupyter Notebook containing the analysis, model training, and evaluation for predicting thyroid conditions. This notebook outlines the steps taken to preprocess the data, build the Naive Bayes model, and evaluate its performance.
 - **thyroid_prediction_model.pkl**: The saved Naive Bayes model for predicting thyroid conditions. This model can be loaded and used to make predictions on new data.
 
-### Miscellaneous
-- **.ipynb_checkpoints**: Directory automatically created by Jupyter to store checkpoint files.
-
 ## Project Overview
 
 ### Objective
